@@ -1,6 +1,6 @@
 
 public class Halo {
 	public static void main(String[] args) {
-		System.out.println("kuay");
+		System.out.println("deemark");
 	}
 }
